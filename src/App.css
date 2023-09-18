@@ -64,7 +64,7 @@ input {
 .button-div {
   display: flex;
   justify-content: space-between;
-  width: 30vw;
+  width: 90%
 }
 
 button {
